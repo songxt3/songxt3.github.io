@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! My name is Xiaotian Song.We come to my personal pages.
+  Hi! My name is Xiaotian Song.Welcome to my personal pages.
 </p>
 
 #### Educations
