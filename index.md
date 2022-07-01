@@ -10,7 +10,8 @@ profile_picture:
 </p>
 
 #### Educations
-2015-2019,Undergraduate,Sun Yat-sen University,Guangzhou.
+2022-Now,graduate,SICHUAN University,Chengdu
+2015-2019,undergraduate,Sun Yat-sen University,Guangzhou.
 
 #### Work Experience
-2019-2022,Software development engineer in test(SDET) in OPPO.
+2019-2021,system development engineer in test(SDET) in OPPO.
