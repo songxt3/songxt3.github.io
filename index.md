@@ -10,9 +10,9 @@ profile_picture:
 </p>
 
 #### Educations
-2022-Now,graduate,SICHUAN University,Chengdu
+2022-Now,graduate,SICHUAN University,Chengdu.
 
 2015-2019,undergraduate,Sun Yat-sen University,Guangzhou.
 
 #### Work Experience
-2019-2021,system development engineer in OPPO.
+2019-2021,system development engineer,OPPO,Shenzhen.
