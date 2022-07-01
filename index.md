@@ -11,6 +11,7 @@ profile_picture:
 
 #### Educations
 2022-Now,graduate,SICHUAN University,Chengdu
+
 2015-2019,undergraduate,Sun Yat-sen University,Guangzhou.
 
 #### Work Experience
