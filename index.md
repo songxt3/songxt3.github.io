@@ -14,4 +14,4 @@ profile_picture:
 2015-2019,undergraduate,Sun Yat-sen University,Guangzhou.
 
 #### Work Experience
-2019-2021,system development engineer in test(SDET) in OPPO.
+2019-2021,system development engineer in OPPO.
